@@ -24,11 +24,10 @@ After completing the above steps, feel free to begin updating this readme where 
 
 ### Mia Womack
 
-![Web Development](https://img.shields.io/badge/Degree-Web%20Development-orange?logo=gnometerminal)
-<br>
-![Class Name](https://img.shields.io/badge/Class-Project%20and%20Portfolio%20I-orange?logo=html5)
+!Web Development(https://img.shields.io/badge/Degree-Web%20Development-orange?logo=gnometerminal)
+!PROJECT AND PORTFOLIO I: WEB DEVELOPMENT - ONLINE(https://img.shields.io/badge/Class-Project%20and%20Portfolio%20I-orange?logo=html5)
 
-Hello my name is [enter name]. I am a student from [where are you from?]. The purpose of this repository is to practice development using version control. This work will help me begin to build a portfolio of skills and accomplishment that can be shared in the future.
+Hello my name is Mia Womack. I am a student from Florida, though I was born in Balitmore, Maryland before moving and living in Virginia for about 6 years. The purpose of this repository is to practice development using version control. This work will help me begin to build a portfolio of skills and accomplishment that can be shared in the future.
 
 <br>
 
