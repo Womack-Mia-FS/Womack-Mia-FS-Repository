@@ -83,7 +83,7 @@ Most repositories contain a .gitignore file.
 
 - What other file or folder would you want to add to a .gitignore file and why?
   <br>
-  [Fill in answer here]
+  node_modules - this ensures that if you clone the repo in two different systems, you get the same exact code
 
 <br>
 
@@ -91,7 +91,7 @@ Most repositories contain a .gitignore file.
 
 Replace the example references below with your own links and recommended resources. It is acceptable to provide multiple links for a single topic and to use material provided to you in this class. You are encouraged to link to your own independent research as well.
 
-[ Research Summary: What resource(s) did you find most helpful this past week and why? ]
+All of the GitHub docs and videos. These were all helpful because I'm more of a visual learner, and seeing the coding cheatsheet made things easier since I tend to forget a lot of codes. It makes my life a whole lot easier when I have that kind of stuff written down.
 
 **Terminal Commands**  
 gitHub.com https://github.com/0nn0/terminal-mac-cheatsheet#english-version

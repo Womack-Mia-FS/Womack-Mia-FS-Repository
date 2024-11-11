@@ -24,10 +24,11 @@ After completing the above steps, feel free to begin updating this readme where 
 
 ### Mia Womack
 
-!Web Development(https://img.shields.io/badge/Degree-Web%20Development-orange?logo=gnometerminal)
-!PROJECT AND PORTFOLIO I: WEB DEVELOPMENT - ONLINE(https://img.shields.io/badge/Class-Project%20and%20Portfolio%20I-orange?logo=html5)
+![Web Development](https://img.shields.io/badge/Degree-Web%20Development-orange?logo=gnometerminal)
+<br>
+![Class Name](https://img.shields.io/badge/Class-Project%20and%20Portfolio%20I-orange?logo=html5)
 
-Hello my name is Mia Womack. I am a student from Florida, though I was born in Balitmore, Maryland before moving and living in Virginia for about 6 years. The purpose of this repository is to practice development using version control. This work will help me begin to build a portfolio of skills and accomplishment that can be shared in the future.
+Hello my name is [enter name]. I am a student from [where are you from?]. The purpose of this repository is to practice development using version control. This work will help me begin to build a portfolio of skills and accomplishment that can be shared in the future.
 
 <br>
 
@@ -47,7 +48,7 @@ Each week I will summarize my milestone activity and progress by writing a stand
 
 ### Week 1
 
-I worked on setting up all of my folders, looked over the assignments for this week, tried to do the mental math (ugh) to figure out how much time needs to be divided between assignments and a rough estimate on how each might take, and I also worked on some personal projects such as doing a little writing (I have a crap ton of book outlines set-up, some with more information than others, and the one I'm currently working on is one of the horror short stories) and worked a bit on my story for my ghostwriting job. Some of the issues I had was, I guess, deciding what to use (Terminal, GitHub Desktop) because on one hand, doing Terminal would've helped level up my coding and the set-up, but on the other hand, I mostly took the class just for the basics of web development because I'm planning on using Wix since I love the templates and how easy it is to work with. I temporarily resolved this issue by deciding to use GitHub Desktop for now and consider Terminal later when I have a much better grasp on coding. It's hard to say what I "leveled up" on since it feels a bit too early, but I think I can cite being able to make portfolios - an important skill considering I do freelance work. My next step is to focus more on coding in general - especially with javascript. I still struggle with any script coding, and that's one of the most important features that I would have for almost of my work.
+Replace this paragraph with your stand up for this week. Use the prompts above to summarize your most recent milestone activity and work.
 
 ### Week 2
 

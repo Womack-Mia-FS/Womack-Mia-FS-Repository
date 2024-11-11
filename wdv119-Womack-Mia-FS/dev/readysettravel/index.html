@@ -3,61 +3,143 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="CSS/style.css">
+    <link rel="stylesheet" type="text/css" href="CSS/style.css">
     <title>ReadySetTravel</title>
 </head>
 <body>
-    <header>
+    <header style="background-image: url(img/hero-bg.jpg); background-repeat: no-repeat; background-size: 100% 100%;">
         <h1>Book the trip of a lifetime</h1>
-        <p>Get the best advice and tips for your dream trip</p>
-        <nav>
-            <h2>Where do you want to go?</h2>
-            <input type="text" name="enterDestination" value="Enter a destination" id="destination"><label for="destination"></label>
-
-            <br>
-            <br>
-            <a href="#">link 1</a>
-            <a href="#">link 2</a>
-
-            <h2>Trending Tours</h2>
-            <p>Get out there and experience some adventure!</p>
-            <img src="img/tour-mountainHiking.jpg" width="250" height="140" alt="Mountain Tour">
-
-            <img src="img/tour-snorkel.jpg" width="250" height="187" alt="Snorkel Tour">
-
-            <img src="img/tour-pyramids.jpg" width="250" height="166" alt="Pyramid Tour">
-
-            <h2>Plan the Perfect Trip</h2>
-            <p>We take care of it all so you can get out there and experience some adventure!</p>
-            <img src="img/icon-flights.png" alt="Flights">
-
-            <img src="img/icon-transport.png" alt="Transport">
-
-            <img src="img/icon-guide.png" alt="Guides">
-
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <h2>Top Notch Destinations</h2>
-            <p>These places are on everyone's bucket list</p>
-            <img src="img/destinations-machu.jpg" width="140" height="186" alt="Machu Pichu">
-            <img src="img/destinations-paris.jpg" width="140" height="93" alt="Paris">
-            <img src="img/destinations-rome.jpg" width="270" height="180" alt="Rome">
-            <img src="img/destinations-sydney.jpg" width="240" height="160" alt="Sydney">
-            <img src="img/destinations-rio.jpg" width="200" height="125" alt="Rio">
-            <br>
-            <br>
-            <br>
-            <h5>ReadySetTravel</h5>
-            <p>We can provide you with the best advice and tips for your dream trip.</p>
-            <img src="img/social-facebook.png" alt="FaceBook">
-            <img src="img/social-instagram.png" alt="Instagram">
-            <img src="img/social-twitter.png" alt="X">
-        </nav>
+        <p style="color: lightgray;">Get the best advice and tips for your dream trip</p>
     </header>
+        <nav>
+            <h2 style="text-align: center; background-color: #587C93;">Where do you want to go?
+                <br>
+            <label>
+                <input
+                type="text"
+                name="search"
+                placeholder="Enter a destination"
+                width="300" /> <button style="height:40px;width:90px; background: #EE8A5A">Search</button>
+            </h2>
+            </label>
+
+            <br>
+            <br>
+            <h2 style="text-align: center;">Trending Tours</h2>
+            <p style="text-align: center;">Get out there and experience some adventure!</p>
+
+
+            <figure>
+            <div class="inline-block">
+            <img src="img/tour-mountainHiking.jpg" width="250" height="140" alt="Mountain Tour"> 
+            <figcaption>Alps Mountain Hiking Tour</figcaption>
+            <figcaption>4 days | 10 stops</figcaption>
+            <figcaption>$1,500</figcaption>
+            <button style="height:40px;width:90px; background: #EE8A5A">Book Now</button>
+            </div>
+
+            <div class="inline-block">
+            <img src="img/tour-snorkel.jpg" width="250" height="187" alt="Snorkel Tour">
+            <figcaption>Snorkel the Barrier Reef Tour</figcaption>
+            <figcaption>2 days | 2 stops</figcaption>
+            <figcaption>$1,000</figcaption>
+            <button style="height:40px;width:90px; background: #EE8A5A">Book Now</button>
+            </div>
+
+            <div class="inline-block">
+            <img src="img/tour-pyramids.jpg" width="250" height="166" alt="Pyramid Tour">
+            <figcaption>Tour the Pyramids on Camelback</figcaption>
+            <figcaption>2 days | 2 stops</figcaption>
+            <figcaption>$2,000</figcaption>
+            <td width="100">
+            <button style="height:40px;width:90px; background: #EE8A5A">Book Now</button>
+            </td>
+            </div>
+            </figure>
+
+            <br>
+            <br>
+            <figure>
+            <h2 style="text-align: center; font-family: Abril-Fatface;">Plan the <span style="color: #EE8A5A;">Perfect Trip</span></h2>
+            <figcaption>We take care of it all so you can get out there and experience some adventure!</figcaption>
+            
+            <div class="inline-block">
+            <img src="img/icon-flights.png" alt="Flights">
+            <figcaption>Flights</figcaption>
+            </div>
+            
+            <div class="inline-block">
+            <img src="img/icon-transport.png" alt="Transport">
+            <figcaption>Transport</figcaption>
+            </div>
+
+            <div class="inline-block">
+            <img src="img/icon-guide.png" alt="Guides">
+            <figcaption>Guides</figcaption>
+            </div>
+            </figure>
+
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <h2 style="text-align: center;">Top Notch Destinations</h2>
+            <p style="text-align: center;">These places are on everyone's bucket list</p>
+            
+            <div class="row">
+                <div class="column">
+            <img src="img/destinations-machu.jpg" width="140" height="186" alt="Machu Pichu">
+            <div class="bottom-left">Machu Pichu
+                Peru</div>
+            <img src="img/destinations-paris.jpg" width="140" height="93" alt="Paris">
+            <div class="bottom-left">Paris
+                France</div>
+            </div>
+            <div class="row">
+            <img src="img/destinations-rome.jpg" width="270" height="180" alt="Rome">
+            <div class="bottom-left">Rome
+                Italy
+            </div>
+            </div>
+            <div class="row">
+            <img src="img/destinations-sydney.jpg" width="240" height="160" alt="Sydney">
+            <div class="bottom-left">Sydney
+                Australia</div>
+            </div>
+            <img src="img/destinations-rio.jpg" width="200" height="125" alt="Rio">
+            <div class="bottom-left">Rio de Janeiro
+                Brazil
+            </div>
+            </div>    
+        <br><br><br>
+        </section>
+            <br><br><br>
+        <footer style="background-color: #587C93;">
+            <h3><img src="img/ReadySetTravel.png" alt="Travel"></h3>
+            <p>We can provide you with the best advice and tips for your dream trip.</p>
+            <a href="https://www.reddit.com"><img src="img/social-facebook.png" alt="FaceBook"></a>
+            <a href="https://www.reddit.com"><img src="img/social-instagram.png" alt="Instagram"></a>
+            <a href="https://www.reddit.com"><img src="img/social-twitter.png" alt="X"></a>
+        <h4>Contact Us</h4>
+        <p>1234 Address Street
+            Winter Park, FL 32792
+        </p>
+        <a href="123-456-7890">123-456-7890</a>
+        <h4>Links</h4>
+        <a href="#">About</a>
+        <br>
+        <br>
+        <a href="#">Destination</a>
+        <br>
+        <br>
+        <a href="#">Discover</a>
+        <br>
+        <br>
+        <a href="#">Blog</a>
+    </nav>
+        </footer>
     
     <script src ="JS/script.js"></script>
 </body>
