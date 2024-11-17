@@ -6,3 +6,5 @@
 > After many trials and errors, I finally got the tour images in a row!
 > Looked at the comment from last week and did <figure> with the images in order to add captions and stuff
 > I have been looking for solutions on making the header bigger and found one, but it's not as big as I wanted it to be.
+> I worked more on the buttons, more specifically the search button for the search bar, and put them where they needed to be. 
+> I added a color for the background but didn't want it to stray from the mock-up, so I stuck with a shade of white -- just used white smoke.
