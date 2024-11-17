@@ -56,9 +56,7 @@ I was working on the changelog and everything for the website. I had to do this 
 ### Week 3
 
 Overview - What I worked on this past week
-Challenges - What problems did I have & how I'm addressing them
-Accomplishments - What is something I "leveled up" on this week
-Next Steps - What I plan to prioritize and do next
+My biggest problem that I faced this week is center aligning. You see, I can center-align text and headers and stuff, but I can't do that for tables or pictures. This is my biggest gripe because my website looks a mess when not everything that should be center is center. I managed to work with float: inline-end/start for some images that made things look good, but it doesn't work for all images (meaning they don't look good). I need to fix my centers. I think I definitely leveled up with css styling (sans picture centering). I figured out how to make picture frames, shapes, and shaped images, severely leveling up my designing skills. I'm so happy with a lot of results that I found! My next step is centering and better designing plans. 
 
 ### Week 4
 
