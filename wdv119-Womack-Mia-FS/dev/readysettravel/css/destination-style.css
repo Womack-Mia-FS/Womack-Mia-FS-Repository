@@ -1,0 +1,94 @@
+body {
+    background-color: #E7ECF3;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+p {
+  font-family: roboto;
+  font-size: 16px;
+}
+
+.star_5 {
+    position: relative;
+    width: 0px;
+    height: 0px;
+    display: block;
+    border-right: 100px solid transparent;
+    border-bottom: 70px solid #FFE13B;
+    border-left: 100px solid transparent;
+    transform: rotate(35deg);
+  }
+  
+  .star_5:before {
+    content: '';
+    position: absolute;
+    display: block;
+    top: -45px;
+    left: -65px;
+    border-bottom: 80px solid #FFE13B;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    height: 0;
+    width: 0;
+    transform: rotate(-35deg);
+  }
+  .star_5:after {
+    content: '';
+    position: absolute;
+    display: block;
+    top: 3px;
+    left: -105px;
+    width: 0px;
+    height: 0px;
+    border-right: 100px solid transparent;
+    border-bottom: 70px solid #FFE13B;
+    border-left: 100px solid transparent;
+    transform: rotate(-70deg);
+  }.star_5 {
+    position: relative;
+    width: 0px;
+    height: 0px;
+    display: block;
+    border-right: 100px solid transparent;
+    border-bottom: 70px solid #FFE13B;
+    border-left: 100px solid transparent;
+    transform: rotate(35deg);
+  }
+  
+  .star_5:before {
+    content: '';
+    position: absolute;
+    display: block;
+    top: -45px;
+    left: -65px;
+    border-bottom: 80px solid #FFE13B;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    height: 0;
+    width: 0;
+    transform: rotate(-35deg);
+  }
+  .star_5:after {
+    content: '';
+    position: absolute;
+    display: block;
+    top: 3px;
+    left: -105px;
+    width: 0px;
+    height: 0px;
+    border-right: 100px solid transparent;
+    border-bottom: 70px solid #FFE13B;
+    border-left: 100px solid transparent;
+    transform: rotate(-70deg);
+  }
+
+  img {
+    width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  position: relative;
+    border: 5px solid #FFE13B;
+  }

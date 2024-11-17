@@ -34,3 +34,20 @@ h2 {
 .inline-block {
     display: inline-block;
  }
+
+ .grid-container {
+  display: inline-grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+.grid-container div {
+  display: contents;
+}
+
+.grid-container span {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 20px;
+}

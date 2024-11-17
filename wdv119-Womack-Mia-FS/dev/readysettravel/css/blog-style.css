@@ -1,0 +1,15 @@
+body {
+    background-color: whitesmoke;
+}
+
+.triangle_top_right {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 300px 300px 0;
+  border-color: transparent #587C93 transparent transparent;
+}
+
+img {
+  border: 5px solid #555;
+}

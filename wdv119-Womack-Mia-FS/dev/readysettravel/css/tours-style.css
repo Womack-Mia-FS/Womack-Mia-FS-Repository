@@ -1,0 +1,14 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+  height: 200px;
+  border-radius: 50%;
+    border: 12px solid #555;
+  }
