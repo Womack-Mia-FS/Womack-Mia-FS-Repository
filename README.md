@@ -55,7 +55,10 @@ I was working on the changelog and everything for the website. I had to do this 
 
 ### Week 3
 
-Stay tuned, this stand up is coming soon...
+Overview - What I worked on this past week
+Challenges - What problems did I have & how I'm addressing them
+Accomplishments - What is something I "leveled up" on this week
+Next Steps - What I plan to prioritize and do next
 
 ### Week 4
 
